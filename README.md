@@ -55,7 +55,7 @@ activity_main.xml
 
 item_layout.xml
 
-´´´ Bash
+´´´ bash
 
 <?xml version="1.0" encoding="utf-8"?>
 <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
@@ -94,7 +94,6 @@ item_layout.xml
 </androidx.constraintlayout.widget.ConstraintLayout>
 
 ´´´
-
 
 
 
@@ -139,7 +138,7 @@ class AdapterRecyclerView(private val datos: List<TuModeloDeDatos>) : RecyclerVi
 
 MainActivity.kt
 
-´´´ Bash 
+´´´ bash 
 
 class MainActivity : AppCompatActivity() {
     val tusDatos: MutableList<TuModeloDeDatos> = mutableListOf()
