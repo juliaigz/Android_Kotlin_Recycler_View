@@ -14,7 +14,7 @@ Step 4 : Create MainActivity.kt
 ![image](https://github.com/juliaigz/Android_Kotlin_Recycler_View/assets/40221707/be52a46f-fce2-4ed3-8e98-d9a985b670b6)
 
 
-activity_main.xml
+### activity_main.xml
 
 ´´´ bash
 
@@ -53,7 +53,7 @@ activity_main.xml
 ´´´
 
 
-item_layout.xml
+### item_layout.xml
 
 ´´´ bash
 
@@ -98,7 +98,7 @@ item_layout.xml
 
 
 
-AdapterRecyclerView.kt
+### AdapterRecyclerView.kt
 
 ´´´ bash
 
@@ -136,7 +136,7 @@ class AdapterRecyclerView(private val datos: List<TuModeloDeDatos>) : RecyclerVi
 
 
 
-MainActivity.kt
+### MainActivity.kt
 
 ´´´ bash 
 
